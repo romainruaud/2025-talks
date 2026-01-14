@@ -749,7 +749,7 @@ _✍ blog not found_
   <dd>After presenting Gally last year, this time we will take a technical look at its design. We will show how Symfony enables us to abstract search configuration, automatically generate an API through stitching, and integrate modern approaches such as vector search and conversational search to leverage AI. This talk will share our experience on how to turn Symfony into a solid foundation for building a discovery product that is robust, modular, and future-oriented.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/romainruaud/2025-gally-at-symfonycon-building-an-ai-product-discovery-tool-with-symfony)
 [Video](https://live.symfony.com/account/replay/video/1165) <sup>(not free)</sup>  
 ~~Blog post~~
 
